@@ -1,2 +1,2 @@
 # popcoRNG
-Sample corn kernel popping frequency for randomness, in your kernel ... to stop shell poppers popping shells? Too corny?
+Sample corn kernel popping frequency for randomness ... to stop shell poppers popping shells in your kernel? Too corny?
